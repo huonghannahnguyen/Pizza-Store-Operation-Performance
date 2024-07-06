@@ -1,5 +1,6 @@
 # Pizza-Store-Operation-Performance
 Pizza Store Operation Performance
+Link to the dataset: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 ------------------------------------------------------
 -- Create table pizzastore in postgreSQL
 
