@@ -5,6 +5,7 @@ Pizza Store Operation Performance
 -- Link to the dataset: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 
 -- Link to Tableau Dashboard: https://public.tableau.com/app/profile/huong6399/viz/PizzaStoreOperationPerformance/Story1
+
 ------------------------------------------------------
 -- Create table pizzastore in postgreSQL
 
